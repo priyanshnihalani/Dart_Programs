@@ -1,0 +1,2 @@
+pub is dart's package manager you can find it on "pub.dev".
+where you can download multiple packages like fontawesome, locations, etc.
