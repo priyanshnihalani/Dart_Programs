@@ -8,6 +8,6 @@ void main() {
     return name;
   };
 
-  print('Priyansh');
+  print(name('Priyansh'));
   print(sum(10, 20));
 }
